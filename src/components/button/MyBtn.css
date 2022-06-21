@@ -1,0 +1,21 @@
+.Button {
+    padding: 5px 15px;
+    color: teal;
+    font-size: 14px;
+    background: transparent;
+    cursor: pointer;
+    border: 1px solid teal;
+}
+.Bottom_list {
+    padding-top: 20pxgit;
+    display: flex;
+    justify-content: space-between;
+}
+h1 {
+    display:  flex;
+    justify-content: center;
+    border: 1px solid teal;
+    padding: 5px 10px;
+    font-size: 40px;
+    color: teal;
+}
